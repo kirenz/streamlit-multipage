@@ -1,25 +1,23 @@
 # Streamlit
 
-> Mit [Streamlit](https://streamlit.io) lassen sich Python-Skripte in wenigen Minuten in interaktive Web-Apps verwandeln.  Es werden keine  Erfahrungen mit Frontend-Entwicklung benötigt, alles geschieht in reinem Python.
+Streamlit-App starten 🚀:
 
-So startet man die Streamlit-App:
-
-1. Das GitHub-Repo [streamlit-multipage](https://github.com/kirenz/streamlit-multipage) klonen oder als zip-Datei herunterladen
-2. Der Ordner `streamlit-multipage` wird in VS Code geöffnet.
+1. Dieses GitHub-Repo in GitHub forken ⑂ (in der Option für eigene Entwicklung auswählen) oder als zip-Datei 🗂️ herunterladen
+2. Ordner `streamlit-intro` in VS Code öffnen.
 3. Auf die Datei `app.py` klicken.
 
 
 ## Windows
 
-4. Anaconda Command Prompt wird gestartet.
-5. Die Anaconda-Umgebung `genai` wird aktiviert:
+4. Anaconda Command Prompt starten.
+5. Anaconda-Umgebung `genai` aktivieren:
 
    ```bash
    conda activate genai
    ```
 
-6. Mit `cd` navigiert man in das Verzeichnis `streamlit-intro`.
-7. Die App wird gestartet:
+6. Mit `cd` in das Verzeichnis `streamlit-intro` navigieren.
+7. App starten:
 
    ```bash
    streamlit run app.py
@@ -27,14 +25,14 @@ So startet man die Streamlit-App:
 
 ## Mac
 
-4. Das integrierte VS Code Terminal wird geöffnet.
-5. Die Anaconda-Umgebung `genai` wird aktiviert:
+4. Integrierte VS Code Terminal öffnen.
+5. Anaconda-Umgebung `genai` aktivieren:
 
    ```bash
    conda activate genai
    ```
 
-6. Die App wird gestartet:
+6. App starten:
 
    ```bash
    streamlit run app.py
