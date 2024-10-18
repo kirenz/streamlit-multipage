@@ -4,8 +4,8 @@
 
 So startet man die Streamlit-App:
 
-1. Das GitHub-Repo [streamlit-intro](https://github.com/kirenz/streamlit-intro) klonen oder als zip-Datei herunterladen
-2. Der Ordner `streamlit-intro` wird in VS Code geöffnet.
+1. Das GitHub-Repo [streamlit-multipage](https://github.com/kirenz/streamlit-multipage) klonen oder als zip-Datei herunterladen
+2. Der Ordner `streamlit-multipage` wird in VS Code geöffnet.
 3. Auf die Datei `app.py` klicken.
 
 
@@ -25,11 +25,7 @@ So startet man die Streamlit-App:
    streamlit run app.py
    ```
 
-
-
-
 ## Mac
-
 
 4. Das integrierte VS Code Terminal wird geöffnet.
 5. Die Anaconda-Umgebung `genai` wird aktiviert:
