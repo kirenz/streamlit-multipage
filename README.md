@@ -2,9 +2,8 @@
 
 Streamlit-App starten 🚀:
 
-1. Dieses GitHub-Repo in GitHub forken ⑂ (in der Option für eigene Entwicklung auswählen) oder als zip-Datei 🗂️ herunterladen
-2. Ordner `streamlit-intro` in VS Code öffnen.
-3. Auf die Datei `app.py` klicken.
+1. Dieses GitHub-Repo mit GitHub Desktop klonen
+2. Mit rechtem Mausklick auf den Repo-Namen in GitHub Desktop klicken und Open in Visual Studio Code auswählen
 
 
 ## Windows
@@ -16,7 +15,7 @@ Streamlit-App starten 🚀:
    conda activate genai
    ```
 
-6. Mit `cd` in das Verzeichnis `streamlit-intro` navigieren.
+6. Mit `cd` in das Verzeichnis des eben geklonten Ordners navigieren.
 7. App starten:
 
    ```bash
